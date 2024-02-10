@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is the largest freshwater lake in Rwanda?",
+        "options": ["Lake Tana","Lake Nakuru", "Lake Turkana", "Lake Kivu" ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which HTML tag is used to create hyperlinks?",
+        "options": ["link", "a", "anchor", "href" ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What HTML tag is utilized to embed images?",
+        "options": ["img", "image", "picture", "src" ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which HTML tag is employed to include videos?",
+        "options": ["video", "img", "picture", "src" ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "What HTML tag is employed to include audio files?",
+        "options": ["audio", "img", "sound", "src" ],
+        "correctAnswerIndex": 0
+    }
+]
